@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13721,e=>{"use strict";var t=e.i(71645);e.s(["ConversionEvent",0,function({name:e}){return(0,t.useEffect)(()=>{window.gtag?.("event",e,{event_category:"conversion"})},[e]),null}])}]);

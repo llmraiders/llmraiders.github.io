@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+Host: https://llmraiders.com
+Sitemap: https://llmraiders.com/sitemap.xml

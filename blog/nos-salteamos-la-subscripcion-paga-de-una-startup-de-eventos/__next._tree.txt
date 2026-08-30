@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0qc4u-5qsbe8i.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nos-salteamos-la-subscripcion-paga-de-una-startup-de-eventos","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"8fLPzsYMdVV2G0FQixNoD"}
+:HL["/_next/static/chunks/23-m0gh45p-64.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nos-salteamos-la-subscripcion-paga-de-una-startup-de-eventos","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"GaVe52134OItbIwAkN1o9"}
